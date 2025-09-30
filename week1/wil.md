@@ -3,7 +3,7 @@
 <img src="스크린샷 2025-09-30 120210.png">
 
 
-상품 (Product) API
+## 상품 (Product) API
 
 | 기능 | HTTP Method | URI |
 | :--- | :--- | :---|
